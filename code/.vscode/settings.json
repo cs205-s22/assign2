@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "random": "cpp",
-        "cassert": "cpp",
-        "exception": "cpp"
-    }
-}
